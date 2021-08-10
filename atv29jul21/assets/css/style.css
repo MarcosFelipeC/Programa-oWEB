@@ -1,0 +1,33 @@
+.form-group{
+    margin-top: 10px;
+}
+h4{
+    margin-top: 20px;
+}
+body{
+    background-color: aquamarine;
+}
+.alerta{
+    color:red;
+    font-weight: bold;
+}
+.alertaBox{
+    border-top: none;
+    border-left: none;
+    border-right: 3px solid red;
+    border-bottom: 3px solid red;
+}
+.normalBox{
+    background-color: rgb(214, 255, 241);
+    border-top: none;
+    border-left: none;
+    border-right: 3px solid rgb(46, 46, 46);
+    border-bottom: 3px solid rgb(46, 46, 46);
+}
+.normalSelect{
+    background-color: rgb(214, 255, 241);
+    border-top: none;
+    border-left: none;
+    border-right: 3px solid rgb(46, 46, 46);
+    border-bottom: 3px solid rgb(46, 46, 46);
+}

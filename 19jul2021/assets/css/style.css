@@ -1,0 +1,42 @@
+body{
+    width:100%;
+    margin:0px auto;
+    padding: 0px auto;
+}
+.azul{
+    background-color: rgb(119, 0, 255);
+}
+.verde{
+    background-color: green;
+}
+#rosa{
+    background-color: pink;
+}
+.paragrafo-01{
+    color: rgb(0, 191, 255);
+    font-size: 48px;
+    text-align: center;
+    font-family: Tahoma;
+}
+.container{
+    background-color: cornsilk;
+    width: 40%;
+    height: 100px;
+    float: left;
+}
+.box-right{
+    background-color: blue;
+    width: 60%;
+    height: 100px;
+    float: left;
+}
+.conteudoprincipal{
+    width:100%;
+    background-color: pink;
+    min-height:500px;
+}
+.footer{
+    background-color: blue;
+    width: 100%;
+    min-height: 200px;
+}

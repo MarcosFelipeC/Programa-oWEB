@@ -1,0 +1,62 @@
+.container{
+    width:100%;
+    margin:0px auto;
+    padding: 0px auto;
+}
+.box-centralizado{
+    width:40%;
+    margin-left: 30%;
+    background-color: #f4f4f4;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top:20px;
+    border-top: 3px solid rgb(0, 255, 170);
+    border-bottom: 3px solid rgb(0, 255, 170);
+}
+.titulo{
+    font-size: 23px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #5a5a5a;
+}
+.form-group{
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 90%;
+    padding: 10px;
+}
+.form-control{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0px;
+    border-radius: 10px;
+}
+.label{
+    margin-bottom:10px
+}
+option{
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.btn{
+    width: 50%;
+    margin-left: 25%;
+    height: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+    border-radius: 8px;
+}
+.btn:hover{
+    cursor: pointer;
+}
+.btn-success{
+    background-color: #28a745;
+    color:white
+}
+.btn-danger{
+    background-color: red;
+    color:white
+}
+.btn-warning{
+    background-color: #d7e42c;
+    color:white
+}

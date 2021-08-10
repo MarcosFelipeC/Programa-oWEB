@@ -1,0 +1,80 @@
+body{
+    width:100%;
+    margin:0px auto;
+    padding: 0px auto;
+}
+.azul{
+    background-color: rgb(119, 0, 255);
+}
+.verde{
+    background-color: green;
+}
+#rosa{
+    background-color: pink;
+}
+.paragrafo-01{
+    color: rgb(32, 30, 30);
+    font-size: 32px;
+    margin:10px auto;
+    padding: 0px auto;
+    text-align: center;
+    font-family: 'Segoe UI';
+}
+.paragrafo-02{
+    color: rgb(37, 37, 37);
+    font-size: 28px;
+    margin:10px auto;
+    padding: 0px auto;
+    text-align: center;
+    font-family:'Segoe UI';
+}
+.paragrafo-03{
+    color: black;
+    font-size: 48px;
+    margin:10px auto;
+    padding: 0px auto;
+    text-align: center;
+    font-family: 'Segoe UI';
+}
+.paragrafo-04{
+    color: black;
+    font-size: 32px;
+    margin:30px auto;
+    text-align: center;
+    float: center;
+    font-family:  'Segoe UI';
+}
+.foto{
+    margin-left: 46%;
+    margin-top:40px;
+}
+.titulo{
+    background-color: rgb(105, 120, 253);
+    width: 20%;
+    height: 60px;
+    float: left;
+}
+.box-right{
+    background-color: rgb(149, 160, 255);
+    width: 80%;
+    height: 60px;
+    float: right;
+}
+.conteudoprincipal{
+    width:100%;
+    background-color: rgb(223, 226, 255);
+    float: center;
+    min-height:565px;
+}
+.newbox{
+    width:60%;
+    background-color: rgb(168, 177, 255);
+    margin-left: 46%;
+    margin-top:10%;
+    min-height:400px;
+}
+.footer{
+    background-color: rgb(149, 160, 255);
+    width: 100%;
+    min-height: 50px;
+}
